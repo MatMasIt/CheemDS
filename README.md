@@ -1,6 +1,6 @@
 # CheemsDs
 
-!["Bonk"](cheems.png)
+!["Bonk"](preview.gif)
 
 Simple "Cheems Bonk Game" with a counter and sound effects, as it should be.
 
